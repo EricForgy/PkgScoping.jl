@@ -1,0 +1,4 @@
+name = "PkgScoping"
+uuid = "250c0f20-34d0-11e9-0dcc-bb1d784aff0b"
+authors = ["Eric Forgy <Eric.Forgy@coherentasia.com>"]
+version = "0.1.0"
